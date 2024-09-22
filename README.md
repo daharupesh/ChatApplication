@@ -28,8 +28,7 @@ This Android chat application is developed using **Kotlin** and follows the **MV
 - **Firebase Authentication**: For user login and registration.
 - **Firebase Cloud Messaging (Optional)**: For push notifications when new messages arrive (add this if applicable).
 
-## Screenshots (Optional)
-- Include screenshots of the app's key screens such as login, chat window, and registration.
+
 
 ## How to Run the Project
 1. Clone this repository to your local machine.
